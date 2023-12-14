@@ -84,7 +84,9 @@ nav a:hover {
   transform: rotateY(180deg);
 }
 
- /* ****************Scroll bar********** */
+
+ /* ***********=====Scroll bar====********* */
+
  ::-webkit-scrollbar {
   width: 12px;
 }
